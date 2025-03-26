@@ -7,10 +7,6 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://pypi.org/project/Pycodz/">
-    <img src="https://img.shields.io/pypi/v/tgram.svg?logo=python&logoColor=%23959DA5&label=pypi&labelColor=%23282f37">
-  </a>
-
   <a href="https://t.me/Pycodz">
     <img src="https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram">
   </a>
