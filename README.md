@@ -22,7 +22,7 @@
 
 ```shell
 # via Git
-git clone https://github.com/Gtfobins.git
+git clone https://github.com/DevZ44d/Gtfobins.git
 
 cd Gtfobins
 
